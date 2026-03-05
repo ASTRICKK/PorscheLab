@@ -262,9 +262,7 @@ Every interaction — touch-to-orbit, pinch-to-zoom, tap-to-inspect, color swatc
 
 > Deployed on **Netlify** with SPA redirect rules and Node 24 build environment.
 
-```
-https://your-deployment.netlify.app
-```
+[Click here](https://everymatrix-porchelab.netlify.app)
 
 ---
 
